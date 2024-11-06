@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-
+:: 테스트용
 :: UTF-8 설정
 chcp 65001 > nul
 
